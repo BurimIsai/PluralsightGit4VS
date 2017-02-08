@@ -21,6 +21,7 @@ namespace CoreWebDemo
 
             host.Run();
             //TODO: work on feature 1.1
+            //TODO: think about feature 1.2
         }
     }
 }

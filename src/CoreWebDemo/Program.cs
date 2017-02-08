@@ -20,6 +20,7 @@ namespace CoreWebDemo
                 .Build();
 
             host.Run();
+            //TODO
         }
     }
 }
